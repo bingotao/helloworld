@@ -1,1 +1,3 @@
-export default {};
+export default {
+  b: 2
+};
